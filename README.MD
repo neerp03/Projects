@@ -1,6 +1,6 @@
-Java and JavaScript Projects Repository
+Java, JavaScript, and Python Projects Repository
 
-This repository contains a collection of Java-based projects along with one JavaScript project, highlighting core Object-Oriented Programming (OOP) concepts and essential data structures. These projects collectively demonstrate proficiency in:
+This repository contains a collection of Java-based projects along with one JavaScript project and also a Python project, highlighting core Object-Oriented Programming (OOP) concepts and essential data structures. These projects collectively demonstrate proficiency in:
 
 OOP Principles: Polymorphism, Encapsulation, and Inheritance
 
