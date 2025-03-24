@@ -1,2 +1,0 @@
-# Projects
-Resume projects  +  more
